@@ -1,0 +1,11 @@
+C:\Users\Sartori\Documents\WCS\Quêtes\PerimetreConfiance\PerimetreConfiance\bin\Debug\netcoreapp3.1\PerimetreConfiance.exe
+C:\Users\Sartori\Documents\WCS\Quêtes\PerimetreConfiance\PerimetreConfiance\bin\Debug\netcoreapp3.1\PerimetreConfiance.deps.json
+C:\Users\Sartori\Documents\WCS\Quêtes\PerimetreConfiance\PerimetreConfiance\bin\Debug\netcoreapp3.1\PerimetreConfiance.runtimeconfig.json
+C:\Users\Sartori\Documents\WCS\Quêtes\PerimetreConfiance\PerimetreConfiance\bin\Debug\netcoreapp3.1\PerimetreConfiance.runtimeconfig.dev.json
+C:\Users\Sartori\Documents\WCS\Quêtes\PerimetreConfiance\PerimetreConfiance\bin\Debug\netcoreapp3.1\PerimetreConfiance.dll
+C:\Users\Sartori\Documents\WCS\Quêtes\PerimetreConfiance\PerimetreConfiance\bin\Debug\netcoreapp3.1\PerimetreConfiance.pdb
+C:\Users\Sartori\Documents\WCS\Quêtes\PerimetreConfiance\PerimetreConfiance\obj\Debug\netcoreapp3.1\PerimetreConfiance.csprojAssemblyReference.cache
+C:\Users\Sartori\Documents\WCS\Quêtes\PerimetreConfiance\PerimetreConfiance\obj\Debug\netcoreapp3.1\PerimetreConfiance.AssemblyInfoInputs.cache
+C:\Users\Sartori\Documents\WCS\Quêtes\PerimetreConfiance\PerimetreConfiance\obj\Debug\netcoreapp3.1\PerimetreConfiance.AssemblyInfo.cs
+C:\Users\Sartori\Documents\WCS\Quêtes\PerimetreConfiance\PerimetreConfiance\obj\Debug\netcoreapp3.1\PerimetreConfiance.dll
+C:\Users\Sartori\Documents\WCS\Quêtes\PerimetreConfiance\PerimetreConfiance\obj\Debug\netcoreapp3.1\PerimetreConfiance.pdb
